@@ -1,2 +1,2 @@
 # CODESOFT
-official repo for codesoft intership
+official repo for codesoft internship
